@@ -1,8 +1,12 @@
 body{
-    padding-top: 75px;
+    padding-top: 100px;
     padding-bottom: 100px;
 }
 
 nav a {
     color: white;
+}
+
+.navbar-brand, .form-group {
+    font-weight: 700;
 }
