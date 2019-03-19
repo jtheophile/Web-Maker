@@ -9,8 +9,7 @@ nav a {
 
 .navbar-brand, .form-group {
     font-weight: 700;
-}
 
-.fas fa-plus{
-    color: white;
+#one {
+    float: left;
 }
