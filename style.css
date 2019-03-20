@@ -9,7 +9,20 @@ nav a {
 
 .navbar-brand, .form-group {
     font-weight: 700;
+}
+.website {
+    width: 90%
+}
 
-#one {
-    float: left;
+.float-left {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.float-right {
+    float: right;
 }
