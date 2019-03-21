@@ -8,7 +8,7 @@ nav a {
 }
 
 .navbar-brand, .form-group {
-    font-weight: 700;
+    font-weight: 500;
 }
 .website {
     width: 90%
@@ -20,9 +20,14 @@ nav a {
 
 ul {
     list-style-type: none;
+    text-decoration: none;
 }
 
+li {
+    text-decoration: none;
+}
 
 .float-right {
     float: right;
 }
+
