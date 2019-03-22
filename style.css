@@ -4,7 +4,7 @@ body{
 }
 
 nav a {
-    color: white;
+    /* color: white; */
 }
 
 .navbar-brand, .form-group {
@@ -25,4 +25,12 @@ ul {
 
 li {
     text-decoration: none;
+}
+
+.delete {
+    padding-top: 10px;
+}
+
+a, a:hover {
+    text-decoration:none;
 }
