@@ -4,15 +4,14 @@ body{
 }
 
 nav a {
-    /* color: white; */
-    color: black;
-}
+    color: white;
+    }
 
-.navbar-brand, .form-group {
-    font-weight: 500;
+.navbar-brand, .form-group, {
+    /* font-weight: 500; */
 }
 .website {
-    width: 90%
+    width: 90%;
 }
 
 .float-left {
@@ -34,4 +33,5 @@ li {
 
 a, a:hover {
     text-decoration:none;
+    
 }
